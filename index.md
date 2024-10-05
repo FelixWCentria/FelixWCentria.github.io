@@ -1,7 +1,5 @@
 # Felix Wahlsberg web-tehtävä
 
-Tässä on yksinkertainen HTML-sivu, jonka voit avata selaimessa.
-
 ## Lesson 1 - _Italics_ and **Bold**:
 
 1. Writing in Markdown is _not_ that hard!
